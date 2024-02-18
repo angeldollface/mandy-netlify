@@ -6,11 +6,11 @@
 
 ## ABOUT :books:
 
-This repository contains the source code of a sample Mandy-powered project to deploy Mandy-powered projects on Netlify. If you don't know what Mandy is, click [this link](https://angeldollface.art/mandys-house). If you'd like to know what Netlify is, [click here](https://netlify.com).
+This repository contains the source code of a sample Mandy-powered project to deploy Mandy-powered projects on Netlify. If you don't know what Mandy is, click [this link](https://angeldollface.boo/mandys-house). If you'd like to know what Netlify is, [click here](https://netlify.com).
 
 ## USAGE :hammer_and_pick:
 
-To use this template site for your own Mandy-powered site, you need to have Mandy installed. To find out how to do that, head over to [this link](https://angeldollface.art/mandys-house/documentation/installation). Once you have Mandy installed, you can use this template in the following way:
+To use this template site for your own Mandy-powered site, you need to have Mandy installed. To find out how to do that, head over to [this link](https://angeldollface.boo/mandys-house/documentation/installation). Once you have Mandy installed, you can use this template in the following way:
 
 - 1.) Check you have the latest version of Mandy installed:
 
